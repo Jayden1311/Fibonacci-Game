@@ -3,8 +3,9 @@
 The Fibonacci Grid Game is a single player puzzle game based on the [Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_number).
 
 <p align="center">
+  <img src="https://badges.strrl.dev/visits/Jayden1311/fibonacci-grid-game">
 </p>
-<img src="https://badges.strrl.dev/visits/Jayden1311/fibonacci-grid-game">
+
 # **Gameplay:**
 - When the player clicks on one of the cells, all horizontal and vertical cells of the clicked cell will be incremented by 1 if the cell was empty then it will be 1.
 - After each cell change, the cell will be highlighted for a split second.
