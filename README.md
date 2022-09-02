@@ -57,6 +57,7 @@ $ npm run generate
 - Create tests for prebuilding and production
 - Point system for scoring (Maybe use a score counter and a score board with leaderboards)
 - Refactor the grid business logic to be more efficient (maybe use a 2D array instead of an data object)
+- Ability to check for sequences both verticall and horizontally at the same time using a transpose on the grid data object
 - Refactor CSS to be utilized more effectively for transitions and animations
 - Improve user feedback when resetting the grid
 - Add a timer to the game 
